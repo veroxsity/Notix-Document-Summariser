@@ -16,7 +16,7 @@
   <a href="https://github.com/veroxsity/Notix-Document-Summariser/releases">
     <img src="https://img.shields.io/github/v/release/veroxsity/Notix-Document-Summariser?style=for-the-badge&color=7c3aed" alt="Latest Release">
   </a>
-  <img src="https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS%20%7C%20Android%20%7C%20Web-blue?style=for-the-badge" alt="Platforms">
+  <img src="https://img.shields.io/badge/platforms-Windows%20%7C%20Android-blue?style=for-the-badge" alt="Platforms">
 </p>
 
 ---
@@ -102,13 +102,11 @@ Transform any document into an interactive quiz:
 
 ### 📱 Cross-Platform
 
-Notix runs natively on all major platforms:
+Notix runs natively on:
 - **Windows** – Windows 10/11
-- **macOS** – macOS 11+
-- **Linux** – Ubuntu, Fedora, and other distributions
-- **iOS** – iPhone and iPad
 - **Android** – Phones and tablets
-- **Web** – Any modern browser
+
+*macOS, Linux, iOS, and Web versions coming soon!*
 
 ---
 
@@ -128,11 +126,7 @@ Download the latest release for your platform:
 |----------|--------|--------------|
 | Windows | Portable (.zip) | x64 |
 | Windows | Installer (.exe) | x64 |
-| macOS | App Bundle (.dmg) | Universal (Intel + Apple Silicon) |
-| Linux | AppImage | x64 |
 | Android | APK | arm64-v8a, armeabi-v7a |
-| iOS | App Store | Universal |
-| Web | PWA | All browsers |
 
 ---
 
